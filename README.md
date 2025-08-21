@@ -143,6 +143,7 @@ Open an issue or submit a pull request to make this project even better. 🌟
 This project is licensed under the **Mozilla Public License Version 2.0**.  
 See the [`LICENSE`](./LICENSE) file for details.
 
+
 ---
 
 > _Made with ❤️ by [Ashprogrammer29](https://github.com/Ashprogrammer29) — Revolutionizing lending with AI & open source!_
